@@ -14,3 +14,5 @@ Checkpoint/baseline_V0.pth.tar
 Data/sample_submission.csv
 Data/solution.csv
 Data/train.csv
+Data/test.zip
+Data/train.zip
