@@ -11,3 +11,6 @@ flagged/image/tmpfjoni2co.jpg
 flagged/image/tmpct6wib32.jpg
 *.jpg
 Checkpoint/baseline_V0.pth.tar
+Data/sample_submission.csv
+Data/solution.csv
+Data/train.csv
