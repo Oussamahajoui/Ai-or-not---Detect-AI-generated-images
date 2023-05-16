@@ -22,15 +22,12 @@ In order to develop the app, I proceeded through the following:
 ## End-result
 The web-app looks like the following:
 
-![01](https://github.com/Oussamahajoui/Ai-or-not---Detect-AI-generated-images/assets/83676274/6db39bb4-af90-4ed1-80be-8df19e8f0507)
+![01](https://github.com/Oussamahajoui/Ai-or-not---Detect-AI-generated-images/assets/83676274/4c04f10f-1667-414e-9e39-5ba02c70087a)
+![02](https://github.com/Oussamahajoui/Ai-or-not---Detect-AI-generated-images/assets/83676274/1b873fdc-48cf-48e1-95a1-0dc6477a1d58)
+![03](https://github.com/Oussamahajoui/Ai-or-not---Detect-AI-generated-images/assets/83676274/475cdd80-1fc2-4012-866a-a2ab29681889)
+![04](https://github.com/Oussamahajoui/Ai-or-not---Detect-AI-generated-images/assets/83676274/905448e7-e041-4349-ac96-eb3b868eedbd)
+![05](https://github.com/Oussamahajoui/Ai-or-not---Detect-AI-generated-images/assets/83676274/fb640e48-19f4-4d3a-a0ab-46d734ce545e)
 
-![02](https://github.com/Oussamahajoui/Ai-or-not---Detect-AI-generated-images/assets/83676274/7ab244b9-51f4-4050-98d0-f357cace47a5)
-
-![03](https://github.com/Oussamahajoui/Ai-or-not---Detect-AI-generated-images/assets/83676274/7a620987-df11-484d-a0c6-24aa1098e9e8)
-
-![04](https://github.com/Oussamahajoui/Ai-or-not---Detect-AI-generated-images/assets/83676274/2bafd0fe-1900-4b95-b465-80a0ef87864a)
-
-![05](https://github.com/Oussamahajoui/Ai-or-not---Detect-AI-generated-images/assets/83676274/1efdda6c-c4c2-4687-b2f2-5916c23c4522)
 
 ## Next steps:
 As next steps for this web-app:
